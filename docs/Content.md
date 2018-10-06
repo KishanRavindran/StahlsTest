@@ -33,3 +33,11 @@
     10. References<br/>
  1. Section
     11. Appendices<br/>
+
+
+
+#Ticket ERD Diagram
+
+![Image of Ticket ERD Diagram]<br/>
+(https://github.com/KishanRavindran/StahlsTest/blob/master/docs/Tickets%20ER%20Diagram.jpg)
+
