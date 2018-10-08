@@ -1,44 +1,42 @@
+# Content 
+1. Table of Figures 
+1. Stake Holders 
+1. Glossary 
+1. Revision History 
+  1. Section 1. Overview<br/>
+    1.1 Purpose<br/>
+    1.2 Scope <br/>
+  1. Section 
+    2. System Architecture<br/>
+    2.1 Architectural components<br/>
+  1. Section 
+    3. Data Dictionary<br/>
+  1. Section 
+    5. Data Design<br/>
+    5.1 Persistent/Static Data<br/> 
+    5.2 Transient/Dynamic Data<br/> 
+    5.3 External Interface Data<br/> 
+    5.4 Transformation of Data<br/>
+ 1. Section 
+    6. User Interface Design<br/>
+    6.1 User Interface Design Overview<br/>
+    6.2 User Interface Navigation Hierarchy<br/>
+    6.3 User Function Categories(or Use Cases)<br/>
+ 1. Section
+    7. Other Interfaces<br/>
+    7.x Interface X
+ 1. Section 
+    8. Other Design Feature<br/>
+ 1. Section
+    9. Requirements Traceability Matrix<br/>
+ 1. Section
+    10. References<br/>
+ 1. Section
+    11. Appendices<br/>
 
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/test201093/testingRepo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](https://github.com/GeppettoSoftware/StahlsTest/blob/master/docs/jonas-verstuyft-787869-unsplash.jpg)
-[test new1 page](http://www.github.com/)
-```
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#Ticket ERD Diagram
 
-[Link](url) and ![Image](https://github.com/GeppettoSoftware/StahlsTest/blob/master/docs/jonas-verstuyft-787869-unsplash.jpg)
-[test new1 page](https://github.com/GeppettoSoftware/StahlsTest/blob/master/docs/jonas-verstuyft-787869-unsplash.jpg)
+![Image of Ticket ERD Diagram](https://github.com/KishanRavindran/StahlsTest/blob/master/docs/Tickets%20ER%20Diagram.jpg)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/test201093/testingRepo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
